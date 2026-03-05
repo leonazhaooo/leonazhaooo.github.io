@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+<p>
+You can view my full CV below. For a standalone copy, you can also
+<a href="/files/leona_zhao_cv.pdf" target="_blank">download the PDF</a>.
+</p>
+
+<embed src="/files/leona_zhao_cv.pdf"
+       type="application/pdf"
+       width="100%"
+       height="800px">
+  <p>Your browser does not support embedded PDFs. Please
+     <a href="/files/leona_zhao_cv.pdf" target="_blank">download the CV</a>
+     to view it.</p>
+</embed>
+
+---
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)

@@ -7,15 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+Hello! I'm a Ph.D. student in the Department of Political Science at Washington University in St. Louis, studying comparative politics and political methodology. Before WashU, I obtained my B.Soc.Sc. in politics and public administration and LL.B. from The University of Hong Kong. I also worked with the Hong Kong Institute for Humanities and Social Sciences.
 
-I am a Ph.D. student in Political Science at Washington University in St. Louis (WashU).
-
-My research interests lie in political science, with a focus on topics such as **[add your main subfields here, e.g., comparative politics, political behavior, political communication]**. I am especially interested in **[add 1–2 sentences about your core research questions or themes]**.
-
-Methodologically, I use **[e.g., experiments, surveys, text-as-data, qualitative methods]** to study these questions.
-
-Before my Ph.D., I **[briefly describe your prior education or experience]**.
-
-Please feel free to reach me at [leona@wustl.edu](mailto:leona@wustl.edu).
+My research interest sits at the intersection of gender politics, state-building, and political communication. I investigate the reciprocal relationship between women and the state—how women contribute to state development, and how state structures in turn shape women’s roles and opportunities. Currently, my work focuses on the process of reproductive governance in autocracies and democracies, and how it affects women’s lived experiences and shapes broader patterns of political engagement and behavior. Methodologically, I draw on computational approaches to analyze these dynamics at scale.
 
